@@ -1,0 +1,55 @@
+body{
+  
+    background: linear-gradient(145deg,rgb(148,53,247), rgb(30,34,126));
+    display: flex;
+}
+.container{
+    background-color: rgb(148,53,247); 
+    width: 50%;
+    height: 80vh;
+    margin-left: 150px;
+    margin-top: 50px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border: none;
+}
+.container2{
+    background-color: white;
+    width: 300px;
+    height: 80vh;
+    margin-top: 50px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    text-align: center;
+    line-height: 30px;
+
+}
+.container2 p{
+    
+}
+.container2 h3{
+    background-color: rgb(148,53,247);
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    color: white;
+    padding-top: 15px;
+
+}
+.container img{
+    width: 300px;
+    border-radius: 50%;
+    border: none;
+    margin-top: 100px;
+    margin-left: 200px;
+
+
+}
+.container p{
+    text-align: center;
+    color: white;
+    width: 400px;
+    margin-left: 100px;
+}
